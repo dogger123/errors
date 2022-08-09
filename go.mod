@@ -1,5 +1,5 @@
-module github.com/marmotedu/errors
+module github.com/dogger123/errors
 
-go 1.16
+go 1.18
 
-require github.com/pkg/errors v0.9.1
+require github.com/pkg/errors v0.9.1 // indirect
